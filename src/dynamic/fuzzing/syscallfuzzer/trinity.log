@@ -1,0 +1,110 @@
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  Reserved/initialized 40 futexes.
+[main]  epoll fd:6 used create1?:1 flags:80000 global:1
+[main]  epoll fd:7 used create1?:0 flags:0 global:1
+[main]  epoll fd:8 used create1?:1 flags:80000 global:1
+[main]  epoll fd:9 used create1?:1 flags:80000 global:1
+[main]  epoll fd:10 used create1?:0 flags:0 global:1
+[main]  epoll fd:11 used create1?:1 flags:80000 global:1
+[main]  epoll fd:12 used create1?:0 flags:0 global:1
+[main]  epoll fd:13 used create1?:0 flags:0 global:1
+[main]  epoll fd:14 used create1?:1 flags:80000 global:1
+[main]  epoll fd:15 used create1?:0 flags:0 global:1
+[main]  eventfd fd:16 count:-6 flags:0 global:1
+[main]  eventfd fd:17 count:1833717814 flags:800 global:1
+[main]  eventfd fd:18 count:7 flags:801 global:1
+[main]  eventfd fd:19 count:61440 flags:80000 global:1
+[main]  eventfd fd:21 count:79 flags:80800 global:1
+[main]  eventfd fd:22 count:-65536 flags:80001 global:1
+[main]  eventfd fd:23 count:-8 flags:80801 global:1
+[main]  eventfd fd:25 count:17476 flags:1 global:1
+[main]  Generating file descriptors
+[main]  Added 0 filenames from /files_fd_path
+[main]  Didn't add any files!!
+[main]  inotify fd:26 flags:0 global:1
+[main]  inotify fd:27 flags:0 global:1
+[main]  inotify fd:28 flags:800 global:1
+[main]  inotify fd:29 flags:80000 global:1
+[main]  inotify fd:34 flags:80800 global:1
+[main]  pipe fd:35 flags:0 [reader] global:1
+[main]  pipe fd:36 flags:0 [writer] global:1
+[main]  pipe fd:37 flags:800 [reader] global:1
+[main]  pipe fd:47 flags:800 [writer] global:1
+[main]  pipe fd:48 flags:80000 [reader] global:1
+[main]  pipe fd:54 flags:80000 [writer] global:1
+[main]  pipe fd:55 flags:80800 [reader] global:1
+[main]  pipe fd:56 flags:80800 [writer] global:1
+[main]  socket fd:58 domain:1 (LOCAL) type:0x2 protocol:0 global:1
+[main]  setsockopt(1 0x2 0x555555f7ba00 0x4) on fd 58 [1:2:0]
+[main]  testfile fd:57 filename:trinity-testfile1 flags:5040 fopened:0 fcntl_flags:0 global:1
+[main]  testfile fd:59 filename:trinity-testfile2 flags:5040 fopened:0 fcntl_flags:0 global:1
+[main]  testfile fd:60 filename:trinity-testfile3 flags:2 fopened:1 fcntl_flags:800 global:1
+[main]  testfile fd:61 filename:trinity-testfile4 flags:40 fopened:0 fcntl_flags:0 global:1
+[main]  testfile fd:62 filename:trinity-testfile1 flags:2 fopened:1 fcntl_flags:42000 global:1
+[main]  testfile fd:63 filename:trinity-testfile2 flags:40 fopened:0 fcntl_flags:0 global:1
+[main]  testfile fd:64 filename:trinity-testfile3 flags:2 fopened:1 fcntl_flags:6c00 global:1
+[main]  testfile fd:65 filename:trinity-testfile4 flags:40 fopened:0 fcntl_flags:0 global:1
+[main]  testfile fd:66 filename:trinity-testfile1 flags:101040 fopened:0 fcntl_flags:0 global:1
+[main]  testfile fd:67 filename:trinity-testfile2 flags:2 fopened:1 fcntl_flags:44400 global:1
+[main]  testfile fd:68 filename:trinity-testfile3 flags:4040 fopened:0 fcntl_flags:0 global:1
+[main]  testfile fd:69 filename:trinity-testfile4 flags:101040 fopened:0 fcntl_flags:0 global:1
+[main]  testfile fd:70 filename:trinity-testfile1 flags:105040 fopened:0 fcntl_flags:0 global:1
+[main]  testfile fd:71 filename:trinity-testfile2 flags:4040 fopened:0 fcntl_flags:0 global:1
+[main]  testfile fd:72 filename:trinity-testfile3 flags:2 fopened:1 fcntl_flags:44800 global:1
+[main]  testfile fd:73 filename:trinity-testfile4 flags:2 fopened:1 fcntl_flags:40800 global:1
+[main]  testfile fd:74 filename:trinity-testfile1 flags:101040 fopened:0 fcntl_flags:0 global:1
+[main]  testfile fd:75 filename:trinity-testfile2 flags:105040 fopened:0 fcntl_flags:0 global:1
+[main]  testfile fd:76 filename:trinity-testfile3 flags:105040 fopened:0 fcntl_flags:0 global:1
+[main]  testfile fd:77 filename:trinity-testfile4 flags:2 fopened:1 fcntl_flags:40000 global:1
+[main]  Enabled 6/8 fd providers. initialized:6.
+[main]  Error opening tracing_on : Permission denied
+[child0:27597] [14612714913291487946] [Syscall Num: 44] sendto(fd=58, buff=0x555555f7cfc0, len=1, flags=0x4, addr=0x555555f7cf40, addr_len=110) = -1 (Invalid argument)
+[child0:27597] [14612714913291487946] [Syscall Num: 232] epoll_wait(epfd=67, events=0x1, maxevents=0x311100d2b1c0a510, timeout=0xffffffffffff0005) = -1 (Invalid argument)
+[child0:27597] [14612714913291487946] [Syscall Num: 273] set_robust_list(head=0x7ffff66f8000, len=24) = 0
+[child0:27597] [14612714913291487946] [Syscall Num: 80] chdir(filename="(null)") = -1 (Bad address)
+[child0:27597] [14612714913291487946] [Syscall Num: 20] writev(fd=67, vec=0x555555f83080, vlen=36) = -1 (Invalid argument)
+[child0:27597] [14612714913291487946] [Syscall Num: 53] socketpair(family=1, type=39, protocol=4, usockvec=0x555555f7cfc0) = -1 (Invalid argument)
+[child0:27597] [14612714913291487946] [Syscall Num: 9] mmap(addr=0, len=0x200000, prot=0x1[PROT_READ], flags=0x1, fd=34, off=4096) = -1 (No such device)
+[child0:27597] [14612714913291487946] [Syscall Num: 36] getitimer(which=2, value=0x0) = -1 (Bad address)
+[child0:27597] [14612714913291487946] [Syscall Num: 204] sched_getaffinity(pid=0, len=1088, user_mask_ptr=0x8) = -1 (Bad address)
+[child0:27597] [14612714913291487946] [Syscall Num: 40] sendfile(out_fd=17, in_fd=10, offset=0x8, count=4096) = -1 (Bad address)
+[child0:27597] [14612714913291487946] [Syscall Num: 105] setuid(uid=0xf3f3f3f3) = -1 (Operation not permitted)

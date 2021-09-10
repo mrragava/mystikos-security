@@ -1,0 +1,8 @@
+[submodule "3rdparty/linux-sgx"]
+	path = 3rdparty/linux-sgx
+	url = https://github.com/intel/linux-sgx.git
+	ignore = all
+[submodule "sut/mystikos"]
+	path = sut/mystikos
+	url = https://github.com/mrragava/mystikos.git
+	ignore = all

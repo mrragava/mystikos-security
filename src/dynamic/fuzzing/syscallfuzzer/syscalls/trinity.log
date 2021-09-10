@@ -1,0 +1,625 @@
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  Reserved/initialized 40 futexes.
+[main]  epoll fd:6 used create1?:1 flags:80000 global:1
+[main]  epoll fd:7 used create1?:1 flags:80000 global:1
+[main]  epoll fd:8 used create1?:1 flags:80000 global:1
+[main]  epoll fd:9 used create1?:1 flags:80000 global:1
+[main]  epoll fd:10 used create1?:1 flags:80000 global:1
+[main]  epoll fd:11 used create1?:1 flags:80000 global:1
+[main]  epoll fd:12 used create1?:0 flags:0 global:1
+[main]  epoll fd:13 used create1?:0 flags:0 global:1
+[main]  epoll fd:14 used create1?:1 flags:80000 global:1
+[main]  epoll fd:15 used create1?:1 flags:80000 global:1
+[main]  eventfd fd:16 count:526851540 flags:0 global:1
+[main]  eventfd fd:17 count:-3 flags:800 global:1
+[main]  eventfd fd:18 count:137400320 flags:801 global:1
+[main]  eventfd fd:19 count:228 flags:80000 global:1
+[main]  eventfd fd:21 count:4364 flags:80800 global:1
+[main]  eventfd fd:22 count:4096 flags:80001 global:1
+[main]  eventfd fd:23 count:133 flags:80801 global:1
+[main]  eventfd fd:25 count:189 flags:1 global:1
+[main]  Generating file descriptors
+[main]  Added 38054 filenames from /sys
+[main]  file fd:26 filename:/sys/devices/system/memory/memory419/online flags:0 fopened:1 fcntl_flags:6800 global:1
+[main]  file fd:27 filename:/sys/kernel/rcu_normal flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:28 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:6c/device:6d/power/runtime_active_time flags:0 fopened:1 fcntl_flags:6800 global:1
+[main]  file fd:29 filename:/sys/devices/pci0000:00/0000:00:01.0/0000:01:00.0/i2c-11/power/async flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:34 filename:/sys/module/nfnetlink/notes/.note.gnu.build-id flags:0 fopened:1 fcntl_flags:2000 global:1
+[main]  file fd:35 filename:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-11/power/autosuspend_delay_ms flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:36 filename:/sys/devices/system/memory/memory336/removable flags:0 fopened:1 fcntl_flags:6800 global:1
+[main]  file fd:37 filename:/sys/devices/virtual/block/loop7/loop/dio flags:0 fopened:1 fcntl_flags:2800 global:1
+[main]  file fd:47 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:82/INT3515:00/power/runtime_suspended_time flags:0 fopened:1 fcntl_flags:6800 global:1
+[main]  file fd:48 filename:/sys/devices/pci0000:00/0000:00:1b.0/0000:02:00.0/nvme/nvme0/nvme0n1/nvme0n1p1/power/runtime_status flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:56 filename:/sys/devices/virtual/tty/tty58/power/runtime_status flags:0 fopened:1 fcntl_flags:42800 global:1
+[main]  file fd:57 filename:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-8/1-8:1.0/input/input31/power/runtime_usage flags:0 fopened:1 fcntl_flags:c00 global:1
+[main]  file fd:58 filename:/sys/devices/virtual/thermal/thermal_zone2/power/runtime_active_kids flags:0 fopened:1 fcntl_flags:40000 global:1
+[main]  file fd:59 filename:/sys/devices/virtual/misc/btrfs-control flags:383e80 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:60 filename:/sys/devices/system/memory/memory487/state flags:0 fopened:1 fcntl_flags:2400 global:1
+[main]  file fd:61 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0E:00/input/input0/id flags:0 fopened:1 fcntl_flags:42400 global:1
+[main]  file fd:62 filename:/sys/devices/platform/PNP0C14:01/wmi_bus/wmi_bus-PNP0C14:01/51F5230E-9677-46CD-A1CF-C0B23EE34DB7/power/runtime_suspended_time flags:0 fopened:1 fcntl_flags:40000 global:1
+[main]  file fd:63 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/INT345D:00/power/autosuspend_delay_ms flags:21000 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:64 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:52/power/runtime_suspended_time flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:65 filename:/sys/devices/uncore_cbox_1/power/control flags:0 fopened:1 fcntl_flags:46000 global:1
+[main]  file fd:66 filename:/sys/devices/virtual/block/loop20/mq flags:0 fopened:1 fcntl_flags:6c00 global:1
+[main]  file fd:67 filename:/sys/devices/system/memory/memory126/power/runtime_status flags:0 fopened:1 fcntl_flags:46800 global:1
+[main]  file fd:68 filename:/sys/devices/pci0000:00/0000:00:17.0/ata4/host3/target3:0:0/3:0:0:0/block/sda/power/runtime_active_kids flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:69 filename:/sys/devices/system/memory/memory41/power/runtime_enabled flags:0 fopened:1 fcntl_flags:6800 global:1
+[main]  file fd:70 filename:/sys/devices/pci0000:00/0000:00:14.0/power/wakeup_max_time_ms flags:0 fopened:1 fcntl_flags:4400 global:1
+[main]  file fd:71 filename:/sys/module/vt/parameters/cur_default flags:80 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:72 filename:/sys/devices/system/memory/memory89/power/async flags:2e3700 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:73 filename:/sys/devices/tracepoint/power/runtime_active_kids flags:0 fopened:1 fcntl_flags:6400 global:1
+[main]  file fd:74 filename:/sys/devices/pci0000:00/0000:00:17.0/ata3/link3/power flags:0 fopened:1 fcntl_flags:44000 global:1
+[main]  file fd:75 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:6c/device:6d/power flags:0 fopened:1 fcntl_flags:42400 global:1
+[main]  file fd:76 filename:/sys/devices/system/cpu/cpu7/cpuidle/state6/disable flags:0 fopened:1 fcntl_flags:6400 global:1
+[main]  file fd:77 filename:/sys/devices/pci0000:00/0000:00:01.0/0000:01:00.1/sound/card1/input44/event258/power/runtime_status flags:0 fopened:1 fcntl_flags:4000 global:1
+[main]  file fd:78 filename:/sys/devices/system/memory/memory494/online flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:79 filename:/sys/module/gpiolib_acpi/parameters flags:0 fopened:1 fcntl_flags:400 global:1
+[main]  file fd:80 filename:/sys/devices/virtual/tty/tty63/power/runtime_enabled flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:81 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:6a/power/runtime_suspended_time flags:1100 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:82 filename:/sys/devices/system/cpu/cpu7/cpuidle/state3/disable flags:0 fopened:1 fcntl_flags:44c00 global:1
+[main]  file fd:83 filename:/sys/devices/platform/thinkpad_acpi/input/input30/id flags:0 fopened:1 fcntl_flags:2800 global:1
+[main]  file fd:84 filename:/sys/devices/virtual/block/loop13/trace flags:0 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:85 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0F:05/power/runtime_active_kids flags:0 fopened:1 fcntl_flags:4400 global:1
+[main]  file fd:86 filename:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2:1.1/0003:258A:003A.0002/input/input10/capabilities/rel flags:0 fopened:1 fcntl_flags:400 global:1
+[main]  file fd:87 filename:/sys/devices/virtual/cpuid/cpu2/power/runtime_active_kids flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:88 filename:/sys/devices/system/memory/memory174/power/runtime_active_time flags:0 fopened:1 fcntl_flags:2400 global:1
+[main]  file fd:89 filename:/sys/devices/virtual/bdi/7:10/read_ahead_kb flags:0 fopened:1 fcntl_flags:44000 global:1
+[main]  file fd:90 filename:/sys/devices/software flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:91 filename:/sys/devices/system/memory/memory48/phys_device flags:0 fopened:1 fcntl_flags:6000 global:1
+[main]  file fd:92 filename:/sys/devices/LNXSYSTM:00/LNXCPU:01/path flags:0 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:93 filename:/sys/devices/platform/thinkpad_hwmon/hwmon/hwmon5/temp2_input flags:0 fopened:1 fcntl_flags:40c00 global:1
+[main]  file fd:94 filename:/sys/devices/system/memory/memory460/online flags:0 fopened:1 fcntl_flags:4000 global:1
+[main]  file fd:95 filename:/sys/devices/system/memory/memory438/power/runtime_active_kids flags:21000 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:96 filename:/sys/devices/system/memory/memory155/power/control flags:0 fopened:1 fcntl_flags:6800 global:1
+[main]  file fd:97 filename:/sys/devices/system/cpu/cpu2 flags:0 fopened:1 fcntl_flags:46400 global:1
+[main]  file fd:98 filename:/sys/devices/platform/thinkpad_acpi/rfkill/rfkill1/name flags:381380 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:99 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C14:02/power/async flags:0 fopened:1 fcntl_flags:2000 global:1
+[main]  file fd:100 filename:/sys/devices/virtual/cpuid/cpu7/power/async flags:0 fopened:1 fcntl_flags:2400 global:1
+[main]  file fd:101 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:42/device:43/power/autosuspend_delay_ms flags:200200 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:102 filename:/sys/devices/system/memory/memory146/power/runtime_enabled flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:104 filename:/sys/devices/system/memory/memory5/phys_device flags:0 fopened:1 fcntl_flags:2000 global:1
+[main]  file fd:105 filename:/sys/devices/system/memory/memory412/phys_device flags:0 fopened:1 fcntl_flags:6800 global:1
+[main]  file fd:106 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/INT3441:00/path flags:20800 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:107 filename:/sys/devices/platform/i8042/serio1/serio2/input/input6/id/product flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:108 filename:/sys/devices/virtual/block/loop3/integrity/read_verify flags:0 fopened:1 fcntl_flags:800 global:1
+[main]  file fd:109 filename:/sys/devices/pci0000:00/0000:00:01.0/0000:01:00.0/hwmon/hwmon8/power/runtime_active_kids flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:110 filename:/sys/devices/system/cpu/cpu0/cpuidle/state2/usage flags:0 fopened:1 fcntl_flags:42000 global:1
+[main]  file fd:111 filename:/sys/devices/platform/thinkpad_acpi/leds/tpacpi::kbd_backlight/brightness flags:0 fopened:1 fcntl_flags:800 global:1
+[main]  file fd:112 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/INT0E0C:00/modalias flags:0 fopened:1 fcntl_flags:800 global:1
+[main]  file fd:113 filename:/sys/devices/pci0000:00/0000:00:02.0/drm/card0/uevent flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:114 filename:/sys/devices/pci0000:00/0000:00:1f.3/sound/card0/input40/event30 flags:0 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:115 filename:/sys/devices/system/memory/memory111/power/autosuspend_delay_ms flags:0 fopened:1 fcntl_flags:46000 global:1
+[main]  file fd:116 filename:/sys/devices/system/cpu/cpu7/acpi_cppc flags:0 fopened:1 fcntl_flags:4000 global:1
+[main]  file fd:117 filename:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-0:1.0/usb1-port11/power/runtime_suspended_time flags:0 fopened:1 fcntl_flags:40c00 global:1
+[main]  file fd:118 filename:/sys/module/video/holders flags:0 fopened:1 fcntl_flags:40c00 global:1
+[main]  file fd:119 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:1f/device:20/device:21/power/runtime_active_kids flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:120 filename:/sys/devices/virtual/bdi/8:6-fuseblk/uevent flags:0 fopened:1 fcntl_flags:40800 global:1
+[main]  file fd:121 filename:/sys/devices/virtual/drm/ttm/power/runtime_enabled flags:0 fopened:1 fcntl_flags:800 global:1
+[main]  file fd:122 filename:/sys/devices/virtual/block/loop2/loop/partscan flags:0 fopened:1 fcntl_flags:2800 global:1
+[main]  file fd:123 filename:/sys/module/nvme_core/srcversion flags:0 fopened:1 fcntl_flags:42400 global:1
+[main]  file fd:124 filename:/sys/devices/virtual/vc/vcs6/power/runtime_status flags:80880 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:125 filename:/sys/devices/system/cpu/cpu6/power/runtime_status flags:220100 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:126 filename:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14:1.0/ep_82/wMaxPacketSize flags:0 fopened:1 fcntl_flags:2800 global:1
+[main]  file fd:127 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/PNP0C02:06/power/runtime_suspended_time flags:0 fopened:1 fcntl_flags:40000 global:1
+[main]  file fd:128 filename:/sys/devices/pci0000:00/0000:00:1d.0/0000:3e:00.0/modalias flags:0 fopened:1 fcntl_flags:40c00 global:1
+[main]  file fd:129 filename:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-6/1-6:1.1/0003:062A:4C01.0005/input/input18/event17/power/runtime_status flags:0 fopened:1 fcntl_flags:40800 global:1
+[main]  file fd:130 filename:/sys/devices/pci0000:00/0000:00:17.0/ata2/link2/dev2.0/ata_device flags:0 fopened:1 fcntl_flags:42000 global:1
+[main]  file fd:131 filename:/sys/devices/system/memory/memory279/uevent flags:80080 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:132 filename:/sys/devices/pci0000:00/0000:00:1d.0/0000:3e:00.0/nvme/nvme1/nvme1n1/power/runtime_active_kids flags:2080 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:133 filename:/sys/devices/virtual/misc/lightnvm/dev flags:0 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:134 filename:/sys/devices/pci0000:00/0000:00:1d.0/wakeup/wakeup13/expire_count flags:303200 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:135 filename:/sys/devices/system/memory/memory309 flags:2000 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:136 filename:/sys/devices/platform/serial8250/tty/ttyS29/dev flags:0 fopened:1 fcntl_flags:800 global:1
+[main]  file fd:137 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:1b/PNP0C09:00/LEN0268:00/power/runtime_enabled flags:0 fopened:1 fcntl_flags:2400 global:1
+[main]  file fd:138 filename:/sys/devices/system/memory/memory473/power/runtime_active_kids flags:0 fopened:1 fcntl_flags:46800 global:1
+[main]  file fd:139 filename:/sys/module/vmw_vsock_vmci_transport/srcversion flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:140 filename:/sys/devices/pci0000:00/0000:00:1f.0/PNP0103:00/power/autosuspend_delay_ms flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:141 filename:/sys/kernel/slab/kmalloc-rcl-16/cgroup flags:0 fopened:1 fcntl_flags:40800 global:1
+[main]  file fd:142 filename:/sys/devices/platform/PNP0C14:00/power/runtime_enabled flags:0 fopened:1 fcntl_flags:40c00 global:1
+[main]  file fd:143 filename:/sys/devices/system/memory/memory384/power/control flags:0 fopened:1 fcntl_flags:4400 global:1
+[main]  file fd:144 filename:/sys/devices/LNXSYSTM:00/LNXCPU:0f/power/runtime_active_time flags:0 fopened:1 fcntl_flags:2400 global:1
+[main]  file fd:145 filename:/sys/devices/pci0000:00/0000:00:1b.0/0000:02:00.0/nvme/nvme0/nvme0n1/nvme0n1p2/partition flags:0 fopened:1 fcntl_flags:c00 global:1
+[main]  file fd:146 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:50/device:51/path flags:0 fopened:1 fcntl_flags:6400 global:1
+[main]  file fd:147 filename:/sys/devices/pci0000:00/0000:00:1f.3/hdaudioC0D0/widgets/09/power_caps flags:3c3700 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:148 filename:/sys/devices/system/memory/memory295/power flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:149 filename:/sys/devices/virtual/block/loop16/loop/backing_file flags:0 fopened:1 fcntl_flags:46000 global:1
+[main]  file fd:150 filename:/sys/module/snd_hda_codec_realtek/srcversion flags:200800 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:151 filename:/sys/devices/system/memory/memory51/power/runtime_active_time flags:82000 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:152 filename:/sys/devices/virtual/block/loop3/queue/nomerges flags:0 fopened:1 fcntl_flags:46800 global:1
+[main]  file fd:153 filename:/sys/devices/system/memory/memory468/uevent flags:0 fopened:1 fcntl_flags:44000 global:1
+[main]  file fd:154 filename:/sys/devices/system/memory/memory290/power/async flags:0 fopened:1 fcntl_flags:40400 global:1
+[main]  file fd:155 filename:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-11/1-11:1.0/ep_83/type flags:0 fopened:1 fcntl_flags:44400 global:1
+[main]  file fd:156 filename:/sys/devices/system/memory/memory331/phys_device flags:0 fopened:1 fcntl_flags:40c00 global:1
+[main]  file fd:157 filename:/sys/devices/system/memory/memory465/online flags:0 fopened:1 fcntl_flags:42000 global:1
+[main]  file fd:158 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0F:00/power/async flags:0 fopened:1 fcntl_flags:4000 global:1
+[main]  file fd:159 filename:/sys/devices/virtual/thermal/cooling_device8/power flags:0 fopened:1 fcntl_flags:40000 global:1
+[main]  file fd:160 filename:/sys/devices/pci0000:00/0000:00:01.0/0000:01:00.1/sound/card1/pcmC1D8p/power flags:0 fopened:1 fcntl_flags:40400 global:1
+[main]  file fd:161 filename:/sys/devices/pci0000:00/0000:00:1c.2/0000:04:00.0/net/wlp4s0/statistics/multicast flags:0 fopened:1 fcntl_flags:2000 global:1
+[main]  file fd:162 filename:/sys/devices/system/memory/memory433/power/control flags:0 fopened:1 fcntl_flags:42000 global:1
+[main]  file fd:163 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/INT3449:00/power/autosuspend_delay_ms flags:0 fopened:1 fcntl_flags:6000 global:1
+[main]  file fd:164 filename:/sys/devices/platform/serial8250/tty/ttyS3/power/runtime_enabled flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:165 filename:/sys/devices/system/memory/memory293/power/runtime_status flags:325480 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:166 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:46/device:47/device:48/uevent flags:0 fopened:1 fcntl_flags:400 global:1
+[main]  file fd:167 filename:/sys/devices/virtual/drm_dp_aux_dev/drm_dp_aux3 flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:168 filename:/sys/devices/system/memory/memory440 flags:0 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:169 filename:/sys/module/idma64/drivers flags:202000 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:170 filename:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-14/power/control flags:0 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:171 filename:/sys/devices/system/memory/memory271 flags:0 fopened:1 fcntl_flags:42000 global:1
+[main]  file fd:172 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI000C:00/power/autosuspend_delay_ms flags:0 fopened:1 fcntl_flags:42000 global:1
+[main]  file fd:173 filename:/sys/devices/system/memory/memory139 flags:0 fopened:1 fcntl_flags:2000 global:1
+[main]  file fd:174 filename:/sys/devices/system/memory/memory356/power/runtime_active_kids flags:222b00 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:175 filename:/sys/devices/system/cpu/cpu4/power/runtime_suspended_time flags:0 fopened:1 fcntl_flags:44400 global:1
+[main]  file fd:176 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:46/device:47/device:48/power/runtime_enabled flags:0 fopened:1 fcntl_flags:4800 global:1
+[main]  file fd:177 filename:/sys/devices/pci0000:00/0000:00:14.0/usb2/2-0:1.0/usb2-port10/quirks flags:80500 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:178 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0F:07/power/runtime_active_kids flags:0 fopened:1 fcntl_flags:40000 global:1
+[main]  file fd:179 filename:/sys/devices/virtual/block/loop14/queue/dax flags:0 fopened:1 fcntl_flags:4800 global:1
+[main]  file fd:180 filename:/sys/devices/virtual/thermal/thermal_zone2/hwmon6/power/autosuspend_delay_ms flags:0 fopened:1 fcntl_flags:46800 global:1
+[main]  file fd:181 filename:/sys/devices/system/memory/memory330/power/runtime_usage flags:343880 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:182 filename:/sys/devices/system/memory/memory321 flags:0 fopened:1 fcntl_flags:6c00 global:1
+[main]  file fd:183 filename:/sys/devices/pci0000:00/0000:00:1f.3/power/wakeup flags:0 fopened:1 fcntl_flags:44000 global:1
+[main]  file fd:184 filename:/sys/devices/virtual/block/loop19/queue/chunk_sectors flags:0 fopened:1 fcntl_flags:4400 global:1
+[main]  file fd:185 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:00/LNXVIDEO:00/device:01/power/async flags:3a1880 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:186 filename:/sys/devices/pci0000:00/0000:00:1b.0/0000:02:00.0/aer_dev_fatal flags:0 fopened:1 fcntl_flags:44400 global:1
+[main]  file fd:187 filename:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-11/1-11:1.0/ep_81/bInterval flags:0 fopened:1 fcntl_flags:6400 global:1
+[main]  file fd:188 filename:/sys/kernel/irq/148/per_cpu_count flags:0 fopened:1 fcntl_flags:44400 global:1
+[main]  file fd:189 filename:/sys/devices/system/memory/memory38/power/async flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:190 filename:/sys/kernel/irq/147/chip_name flags:0 fopened:1 fcntl_flags:6400 global:1
+[main]  file fd:191 filename:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-5/1-5:1.0/0003:062A:4102.0003/input/input13/power/runtime_enabled flags:0 fopened:1 fcntl_flags:c00 global:1
+[main]  file fd:192 filename:/sys/devices/system/memory/memory504/removable flags:0 fopened:1 fcntl_flags:4800 global:1
+[main]  file fd:193 filename:/sys/devices/virtual/thermal/cooling_device1/stats/time_in_state_ms flags:0 fopened:1 fcntl_flags:46400 global:1
+[main]  file fd:194 filename:/sys/devices/pci0000:00/0000:00:1f.3/hdaudioC0D0/widgets/0b/pcm_formats flags:283000 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:195 filename:/sys/devices/virtual/block/loop21/queue/iosched/front_merges flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:196 filename:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-11/1-11:1.0/ep_81/power flags:0 fopened:1 fcntl_flags:6400 global:1
+[main]  file fd:197 filename:/sys/module/cmac/taint flags:0 fopened:1 fcntl_flags:44400 global:1
+[main]  file fd:198 filename:/sys/devices/virtual/block/loop18/queue/iosched/write_expire flags:0 fopened:1 fcntl_flags:40c00 global:1
+[main]  file fd:199 filename:/sys/devices/system/memory/memory319/power/autosuspend_delay_ms flags:0 fopened:1 fcntl_flags:c00 global:1
+[main]  file fd:200 filename:/sys/bus/pci/drivers/iosf_mbi_pci flags:2d3800 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:201 filename:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-10/1-10:1.1/uevent flags:0 fopened:1 fcntl_flags:4400 global:1
+[main]  file fd:202 filename:/sys/devices/system/cpu/cpufreq/policy7/scaling_max_freq flags:0 fopened:1 fcntl_flags:6c00 global:1
+[main]  file fd:203 filename:/sys/devices/system/memory/memory153/uevent flags:0 fopened:1 fcntl_flags:6800 global:1
+[main]  file fd:204 filename:/sys/devices/virtual/block/loop22/mq/0/nr_tags flags:0 fopened:1 fcntl_flags:2800 global:1
+[main]  file fd:205 filename:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-6/1-6:1.0/0003:062A:4C01.0004/power/runtime_active_time flags:0 fopened:1 fcntl_flags:44c00 global:1
+[main]  file fd:206 filename:/sys/module/scsi_mod/parameters/scan flags:0 fopened:1 fcntl_flags:42400 global:1
+[main]  file fd:207 filename:/sys/devices/system/cpu/cpu5/cpuidle/state3/below flags:0 fopened:1 fcntl_flags:c00 global:1
+[main]  file fd:208 filename:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2:1.0/0003:258A:003A.0001/input/input7/input7::numlock/uevent flags:0 fopened:1 fcntl_flags:44c00 global:1
+[main]  file fd:209 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/USBC000:00/power/runtime_status flags:0 fopened:1 fcntl_flags:40400 global:1
+[main]  file fd:210 filename:/sys/devices/virtual/block/loop14/alignment_offset flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:211 filename:/sys/devices/pci0000:00/0000:00:17.0/ata3/host2/power/runtime_usage flags:0 fopened:1 fcntl_flags:46400 global:1
+[main]  file fd:212 filename:/sys/devices/LNXSYSTM:00/LNXCPU:0a/hid flags:0 fopened:1 fcntl_flags:800 global:1
+[main]  file fd:213 filename:/sys/devices/virtual/block/loop19/mq/0/cpu7 flags:0 fopened:1 fcntl_flags:2000 global:1
+[main]  file fd:214 filename:/sys/devices/system/memory/memory98/power/control flags:0 fopened:1 fcntl_flags:42800 global:1
+[main]  file fd:215 filename:/sys/devices/virtual/tty/tty39/power/runtime_suspended_time flags:0 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:216 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/LNXVIDEO:01/device:16/power/runtime_active_kids flags:0 fopened:1 fcntl_flags:c00 global:1
+[main]  file fd:217 filename:/sys/devices/system/cpu/cpu7/cpuidle/state2/name flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:218 filename:/sys/devices/system/memory/memory511/phys_index flags:0 fopened:1 fcntl_flags:46400 global:1
+[main]  file fd:219 filename:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14:1.1/ep_83/power/runtime_status flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:220 filename:/sys/devices/virtual/block/loop10/queue/logical_block_size flags:0 fopened:1 fcntl_flags:40400 global:1
+[main]  file fd:221 filename:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-13/tx_lanes flags:0 fopened:1 fcntl_flags:42c00 global:1
+[main]  file fd:222 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C14:03/wakeup/wakeup41/expire_count flags:0 fopened:1 fcntl_flags:40c00 global:1
+[main]  file fd:223 filename:/sys/devices/virtual/tty/tty36/power flags:0 fopened:1 fcntl_flags:2c00 global:1
+[main]  file fd:224 filename:/sys/devices/system/memory/memory266/state flags:0 fopened:1 fcntl_flags:42400 global:1
+[main]  file fd:225 filename:/sys/devices/LNXSYSTM:00/LNXCPU:04/power/control flags:0 fopened:1 fcntl_flags:c00 global:1
+[main]  file fd:226 filename:/sys/devices/virtual/vc/vcs1/uevent flags:0 fopened:1 fcntl_flags:4000 global:1
+[main]  file fd:227 filename:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-5/tx_lanes flags:325880 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:228 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:62/device:63/power/runtime_active_time flags:0 fopened:1 fcntl_flags:800 global:1
+[main]  file fd:229 filename:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-9/power/wakeup_abort_count flags:283280 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:230 filename:/sys/devices/system/memory/memory152/uevent flags:0 fopened:1 fcntl_flags:2000 global:1
+[main]  file fd:231 filename:/sys/devices/pci0000:00/0000:00:17.0/ata4/host3/target3:0:0/3:0:0:0/block/sda/sda6/discard_alignment flags:0 fopened:1 fcntl_flags:44c00 global:1
+[main]  file fd:232 filename:/sys/devices/system/memory/memory206/phys_device flags:0 fopened:1 fcntl_flags:2000 global:1
+[main]  file fd:233 filename:/sys/devices/system/memory/memory53 flags:11c00 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:234 filename:/sys/devices/virtual/misc/uinput/power flags:0 fopened:1 fcntl_flags:46000 global:1
+[main]  file fd:235 filename:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-5/1-5:1.0/0003:062A:4102.0003/input/input13/power/control flags:0 fopened:1 fcntl_flags:800 global:1
+[main]  file fd:236 filename:/sys/module/intel_rapl_msr/sections flags:0 fopened:1 fcntl_flags:42800 global:1
+[main]  file fd:237 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:46/device:47/device:48/device:49/device:4a/device:4b/adr flags:0 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:238 filename:/sys/devices/system/node/has_cpu flags:0 fopened:1 fcntl_flags:40800 global:1
+[main]  file fd:239 filename:/sys/devices/platform/serial8250/tty/ttyS19/power/runtime_enabled flags:0 fopened:1 fcntl_flags:42000 global:1
+[main]  file fd:240 filename:/sys/devices/system/memory/memory508/power/runtime_active_time flags:0 fopened:1 fcntl_flags:400 global:1
+[main]  file fd:241 filename:/sys/devices/system/memory/memory307/valid_zones flags:0 fopened:1 fcntl_flags:40800 global:1
+[main]  file fd:242 filename:/sys/devices/system/memory/memory399/power/runtime_active_time flags:0 fopened:1 fcntl_flags:44800 global:1
+[main]  file fd:243 filename:/sys/devices/system/memory/memory292/power/async flags:0 fopened:1 fcntl_flags:6400 global:1
+[main]  file fd:244 filename:/sys/bus/virtio/drivers/virtio_rproc_serial flags:0 fopened:1 fcntl_flags:6c00 global:1
+[main]  file fd:245 filename:/sys/module/llc/notes/.note.gnu.build-id flags:220100 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:246 filename:/sys/kernel flags:341800 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:247 filename:/sys/devices/platform/serial8250/tty/ttyS3/power/wakeup_abort_count flags:280480 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:248 filename:/sys/kernel/slab/RAWv6 flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:249 filename:/sys/devices/virtual/block/loop10/queue/max_integrity_segments flags:800 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:250 filename:/sys/module/rapl/notes flags:123400 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:251 filename:/sys/devices/system/memory/memory280 flags:21d80 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:252 filename:/sys/devices/system/memory/memory346/phys_device flags:0 fopened:1 fcntl_flags:400 global:1
+[main]  file fd:253 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:74/device:7a/power/control flags:0 fopened:1 fcntl_flags:2400 global:1
+[main]  file fd:254 filename:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-5/1-5:1.0/0003:062A:4102.0003/input/input13/power/runtime_usage flags:0 fopened:1 fcntl_flags:40c00 global:1
+[main]  file fd:255 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:54/device:55/power/runtime_usage flags:0 fopened:1 fcntl_flags:2400 global:1
+[main]  file fd:256 filename:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-11/1-11:1.0/power/runtime_status flags:0 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:257 filename:/sys/devices/platform/MSFT0101:00/tpm/tpm0/power/runtime_enabled flags:0 fopened:1 fcntl_flags:44400 global:1
+[main]  file fd:258 filename:/sys/devices/system/memory/memory366/power/runtime_usage flags:101000 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:259 filename:/sys/devices/platform/thinkpad_hwmon/hwmon/hwmon5/power/async flags:0 fopened:1 fcntl_flags:400 global:1
+[main]  file fd:260 filename:/sys/devices/pci0000:00/0000:00:1d.0/0000:3e:00.0/nvme/nvme1/nvme1n1/queue/read_ahead_kb flags:0 fopened:1 fcntl_flags:40c00 global:1
+[main]  file fd:261 filename:/sys/module/snd_hda_core/taint flags:101080 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:262 filename:/sys/devices/pci0000:00/INT345D:00/gpio flags:0 fopened:1 fcntl_flags:4c00 global:1
+[main]  file fd:263 filename:/sys/devices/platform/kgdboc/uevent flags:0 fopened:1 fcntl_flags:2000 global:1
+[main]  file fd:264 filename:/sys/devices/pci0000:00/0000:00:1f.3/sound/card0/input42/capabilities/abs flags:0 fopened:1 fcntl_flags:2000 global:1
+[main]  file fd:265 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:1e/power/runtime_enabled flags:0 fopened:1 fcntl_flags:44c00 global:1
+[main]  file fd:266 filename:/sys/devices/system/memory/memory186/power/runtime_active_time flags:0 fopened:1 fcntl_flags:40400 global:1
+[main]  file fd:267 filename:/sys/devices/system/memory/memory314/power/runtime_active_kids flags:0 fopened:1 fcntl_flags:4800 global:1
+[main]  file fd:268 filename:/sys/module/kernel/parameters/panic flags:361a00 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:269 filename:/sys/devices/system/memory/memory210/power/autosuspend_delay_ms flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:270 filename:/sys/module/videodev/sections flags:0 fopened:1 fcntl_flags:40000 global:1
+[main]  file fd:271 filename:/sys/devices/system/memory/memory40/uevent flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:272 filename:/sys/devices/system/cpu/cpu1/cpuidle/state8/name flags:0 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:273 filename:/sys/devices/virtual/block/loop17/removable flags:20000 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:274 filename:/sys/devices/virtual/block/loop22/power/async flags:0 fopened:1 fcntl_flags:46400 global:1
+[main]  file fd:275 filename:/sys/devices/platform/i8042/serio1/serio2/input/input6/modalias flags:0 fopened:1 fcntl_flags:44c00 global:1
+[main]  file fd:276 filename:/sys/devices/system/cpu/cpu7/cpuidle/state2/s2idle flags:3f1880 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:277 filename:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-6/1-6:1.1/0003:062A:4C01.0005/input/input16/power/runtime_status flags:0 fopened:1 fcntl_flags:2000 global:1
+[main]  file fd:278 filename:/sys/kernel/mm/ksm/pages_shared flags:0 fopened:1 fcntl_flags:400 global:1
+[main]  file fd:279 filename:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2:1.1/0003:258A:003A.0002/input/input9/power/runtime_status flags:100 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:280 filename:/sys/kernel/irq/134 flags:0 fopened:1 fcntl_flags:40000 global:1
+[main]  file fd:281 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:1f/device:20/device:30/power/control flags:0 fopened:1 fcntl_flags:40000 global:1
+[main]  file fd:282 filename:/sys/devices/pci0000:00/0000:00:14.0/usb2/ep_00/bInterval flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:283 filename:/sys/devices/system/memory/memory407/removable flags:200880 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:284 filename:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-9/descriptors flags:0 fopened:1 fcntl_flags:6400 global:1
+[main]  file fd:285 filename:/sys/devices/virtual/block/loop15/hidden flags:0 fopened:1 fcntl_flags:44000 global:1
+[main]  file fd:286 filename:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-6/manufacturer flags:0 fopened:1 fcntl_flags:2800 global:1
+[main]  file fd:287 filename:/sys/module/joydev/srcversion flags:0 fopened:1 fcntl_flags:4000 global:1
+[main]  file fd:288 filename:/sys/devices/virtual/block/loop10/queue/discard_max_bytes flags:0 fopened:1 fcntl_flags:400 global:1
+[main]  file fd:289 filename:/sys/devices/virtual/vc/vcs5/power/runtime_usage flags:0 fopened:1 fcntl_flags:4000 global:1
+[main]  file fd:290 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:1f/device:20/device:31/power/async flags:2c4000 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:291 filename:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-8/1-8:1.0/power/runtime_status flags:0 fopened:1 fcntl_flags:0 global:1
+[main]  file fd:292 filename:/sys/devices/pci0000:00/0000:00:1f.6/net/enp0s31f6/queues/tx-0/byte_queue_limits/inflight flags:0 fopened:1 fcntl_flags:42c00 global:1
+[main]  file fd:293 filename:/sys/module/zswap/parameters/same_filled_pages_enabled flags:1080 fopened:0 fcntl_flags:0 global:1
+[main]  file fd:294 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/INT3446:00/power/runtime_status flags:0 fopened:1 fcntl_flags:800 global:1
+[main]  file fd:295 filename:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:19/power/autosuspend_delay_ms flags:0 fopened:1 fcntl_flags:6c00 global:1
+[main]  file fd:296 filename:/sys/devices/pci0000:00/0000:00:02.0/drm/card0/card0-eDP-1/i2c-4/i2c-dev/i2c-4/power/runtime_enabled flags:343c00 fopened:0 fcntl_flags:0 global:1
+[main]  inotify fd:297 flags:0 global:1
+[main]  inotify fd:298 flags:0 global:1
+[main]  inotify fd:299 flags:800 global:1
+[main]  inotify fd:300 flags:80000 global:1
+[main]  inotify fd:301 flags:80800 global:1
+[main]  pipe fd:302 flags:0 [reader] global:1
+[main]  pipe fd:303 flags:0 [writer] global:1
+[main]  pipe fd:304 flags:800 [reader] global:1
+[main]  pipe fd:305 flags:800 [writer] global:1
+[main]  pipe fd:306 flags:80000 [reader] global:1
+[main]  pipe fd:307 flags:80000 [writer] global:1
+[main]  pipe fd:308 flags:80800 [reader] global:1
+[main]  pipe fd:309 flags:80800 [writer] global:1
+[main]  socket fd:311 domain:1 (LOCAL) type:0x2 protocol:0 global:1
+[main]  setsockopt(1 0x14 0x555556383d70 0x10) on fd 311 [1:2:0]
+[main]  socket fd:312 domain:1 (LOCAL) type:0x5 protocol:0 global:1
+[main]  setsockopt(1 0x2 0x555556383d70 0x4) on fd 312 [1:5:0]
+[main]  socket fd:313 domain:1 (LOCAL) type:0x1 protocol:0 global:1
+[main]  setsockopt(1 0x2a 0x555556383d70 0x4) on fd 313 [1:1:0]
+[main]  socket fd:314 domain:2 (INET) type:0x2 protocol:0 global:1
+[main]  setsockopt(0 0x13 0x555556383d70 0x1) on fd 314 [2:2:0]
+[main]  socket fd:315 domain:2 (INET) type:0x5 protocol:0 global:1
+[main]  setsockopt(0 0x22 0x555556383d70 0x1) on fd 315 [2:5:0]
+[main]  socket fd:316 domain:2 (INET) type:0x1 protocol:0 global:1
+[main]  setsockopt(0 0xf 0x555556383d70 0x4) on fd 316 [2:1:0]
+[main]  socket fd:317 domain:2 (INET) type:0x1 protocol:6 global:1
+[main]  setsockopt(6 0x9 0x555556383d70 0x4) on fd 317 [2:1:6]
+[main]  socket fd:318 domain:2 (INET) type:0x2 protocol:17 global:1
+[main]  setsockopt(0 0x21 0x555556383d70 0x4) on fd 318 [2:2:17]
+[main]  socket fd:319 domain:2 (INET) type:0x6 protocol:33 global:1
+[main]  setsockopt(269 0x4 0x555556383d70 0x1) on fd 319 [2:6:33]
+[main]  socket fd:320 domain:2 (INET) type:0x5 protocol:132 global:1
+[main]  setsockopt(0 0xf 0x555556383d70 0x1) on fd 320 [2:5:132]
+[main]  socket fd:321 domain:2 (INET) type:0x1 protocol:132 global:1
+[main]  setsockopt(132 0x7 0x555556383d70 0x4) on fd 321 [2:1:132]
+[main]  socket fd:322 domain:2 (INET) type:0x2 protocol:136 global:1
+[main]  setsockopt(0 0x1 0x555556383d70 0x4) on fd 322 [2:2:136]
+[main]  socket fd:323 domain:8 (ATMPVC) type:0x2 protocol:0 global:1
+[main]  setsockopt(264 0x42000004 0x555556383d70 0x4) on fd 323 [8:2:0]
+[main]  socket fd:324 domain:16 (NETLINK) type:0x2 protocol:0 global:1
+[main]  setsockopt(270 0xa 0x0 0x1) on fd 324 [16:2:0]
+[main]  socket fd:325 domain:16 (NETLINK) type:0x2 protocol:2 global:1
+[main]  setsockopt(270 0x3 0x555556383d70 0x1) on fd 325 [16:2:2]
+[main]  socket fd:326 domain:16 (NETLINK) type:0x2 protocol:4 global:1
+[main]  setsockopt(270 0xa 0x0 0x1) on fd 326 [16:2:4]
+[main]  socket fd:327 domain:16 (NETLINK) type:0x2 protocol:6 global:1
+[main]  setsockopt(270 0x3 0x0 0x1) on fd 327 [16:2:6]
+[main]  socket fd:328 domain:16 (NETLINK) type:0x2 protocol:7 global:1
+[main]  setsockopt(270 0x3 0x0 0x1) on fd 328 [16:2:7]
+[main]  socket fd:329 domain:16 (NETLINK) type:0x2 protocol:8 global:1
+[main]  setsockopt(270 0x4 0x0 0x1) on fd 329 [16:2:8]
+[main]  socket fd:330 domain:16 (NETLINK) type:0x2 protocol:9 global:1
+[main]  setsockopt(270 0x3 0x555556383d70 0x1) on fd 330 [16:2:9]
+[main]  socket fd:331 domain:16 (NETLINK) type:0x2 protocol:10 global:1
+[main]  setsockopt(270 0x4 0x555556383d70 0x1) on fd 331 [16:2:10]
+[main]  socket fd:332 domain:16 (NETLINK) type:0x2 protocol:11 global:1
+[main]  setsockopt(270 0x3 0x555556383d70 0x1) on fd 332 [16:2:11]
+[main]  socket fd:333 domain:16 (NETLINK) type:0x2 protocol:12 global:1
+[main]  setsockopt(270 0xa 0x555556383d70 0x1) on fd 333 [16:2:12]
+[main]  socket fd:334 domain:16 (NETLINK) type:0x2 protocol:14 global:1
+[main]  setsockopt(270 0x5 0x0 0x1) on fd 334 [16:2:14]
+[main]  socket fd:335 domain:16 (NETLINK) type:0x2 protocol:15 global:1
+[main]  setsockopt(270 0x5 0x555556383d70 0x4) on fd 335 [16:2:15]
+[main]  socket fd:336 domain:16 (NETLINK) type:0x2 protocol:16 global:1
+[main]  setsockopt(270 0xa 0x555556383d70 0x4) on fd 336 [16:2:16]
+[main]  socket fd:337 domain:16 (NETLINK) type:0x2 protocol:18 global:1
+[main]  setsockopt(270 0xa 0x555556383d70 0x1) on fd 337 [16:2:18]
+[main]  socket fd:338 domain:16 (NETLINK) type:0x2 protocol:20 global:1
+[main]  setsockopt(270 0xa 0x555556383d70 0x4) on fd 338 [16:2:20]
+[main]  socket fd:339 domain:16 (NETLINK) type:0x2 protocol:21 global:1
+[main]  setsockopt(270 0x4 0x0 0x1) on fd 339 [16:2:21]
+[main]  socket fd:340 domain:16 (NETLINK) type:0x3 protocol:0 global:1
+[main]  setsockopt(270 0x4 0x555556383d70 0x4) on fd 340 [16:3:0]
+[main]  socket fd:341 domain:16 (NETLINK) type:0x3 protocol:2 global:1
+[main]  setsockopt(270 0x5 0x0 0x1) on fd 341 [16:3:2]
+[main]  socket fd:342 domain:16 (NETLINK) type:0x3 protocol:4 global:1
+[main]  setsockopt(270 0xa 0x0 0x1) on fd 342 [16:3:4]
+[main]  socket fd:343 domain:16 (NETLINK) type:0x3 protocol:6 global:1
+[main]  setsockopt(270 0x3 0x555556383d70 0x1) on fd 343 [16:3:6]
+[main]  socket fd:344 domain:16 (NETLINK) type:0x3 protocol:7 global:1
+[main]  setsockopt(270 0xc 0x555556383d70 0x1) on fd 344 [16:3:7]
+[main]  socket fd:345 domain:16 (NETLINK) type:0x3 protocol:8 global:1
+[main]  setsockopt(270 0x5 0x555556383d70 0x4) on fd 345 [16:3:8]
+[main]  socket fd:346 domain:16 (NETLINK) type:0x3 protocol:9 global:1
+[main]  setsockopt(270 0x5 0x555556383d70 0x1) on fd 346 [16:3:9]
+[main]  socket fd:347 domain:16 (NETLINK) type:0x3 protocol:10 global:1
+[main]  setsockopt(270 0xa 0x555556383d70 0x1) on fd 347 [16:3:10]
+[main]  socket fd:348 domain:16 (NETLINK) type:0x3 protocol:11 global:1
+[main]  setsockopt(270 0x3 0x0 0x1) on fd 348 [16:3:11]
+[main]  socket fd:349 domain:16 (NETLINK) type:0x3 protocol:12 global:1
+[main]  setsockopt(270 0x5 0x0 0x1) on fd 349 [16:3:12]
+[main]  socket fd:350 domain:16 (NETLINK) type:0x3 protocol:14 global:1
+[main]  setsockopt(270 0x5 0x555556383d70 0x4) on fd 350 [16:3:14]
+[main]  socket fd:351 domain:16 (NETLINK) type:0x3 protocol:15 global:1
+[main]  setsockopt(270 0xa 0x0 0x1) on fd 351 [16:3:15]
+[main]  socket fd:352 domain:16 (NETLINK) type:0x3 protocol:16 global:1
+[main]  setsockopt(270 0xa 0x555556383d70 0x1) on fd 352 [16:3:16]
+[main]  socket fd:353 domain:16 (NETLINK) type:0x3 protocol:18 global:1
+[main]  setsockopt(270 0x5 0x555556383d70 0x4) on fd 353 [16:3:18]
+[main]  socket fd:354 domain:16 (NETLINK) type:0x3 protocol:20 global:1
+[main]  setsockopt(270 0x5 0x555556383d70 0x1) on fd 354 [16:3:20]
+[main]  socket fd:355 domain:16 (NETLINK) type:0x3 protocol:21 global:1
+[main]  setsockopt(270 0x4 0x0 0x1) on fd 355 [16:3:21]
+[main]  socket fd:356 domain:20 (ATMSVC) type:0x2 protocol:0 global:1
+[main]  setsockopt(264 0x42050004 0x555556383d70 0x4) on fd 356 [20:2:0]
+[main]  socket fd:357 domain:24 (PPPOX) type:0x2 protocol:0 global:1
+[main]  socket fd:358 domain:24 (PPPOX) type:0x3 protocol:0 global:1
+[main]  socket fd:359 domain:24 (PPPOX) type:0x5 protocol:0 global:1
+[main]  socket fd:360 domain:24 (PPPOX) type:0x1 protocol:0 global:1
+[main]  socket fd:361 domain:24 (PPPOX) type:0x2 protocol:1 global:1
+[main]  socket fd:362 domain:24 (PPPOX) type:0x3 protocol:1 global:1
+[main]  socket fd:363 domain:24 (PPPOX) type:0x5 protocol:1 global:1
+[main]  socket fd:364 domain:24 (PPPOX) type:0x1 protocol:1 global:1
+[main]  socket fd:365 domain:24 (PPPOX) type:0x2 protocol:2 global:1
+[main]  socket fd:366 domain:24 (PPPOX) type:0x3 protocol:2 global:1
+[main]  socket fd:367 domain:24 (PPPOX) type:0x5 protocol:2 global:1
+[main]  socket fd:368 domain:24 (PPPOX) type:0x1 protocol:2 global:1
+[main]  socket fd:369 domain:24 (PPPOX) type:0x9 protocol:1 global:1
+[main]  socket fd:370 domain:24 (PPPOX) type:0x9 protocol:2 global:1
+[main]  socket fd:371 domain:29 (CAN) type:0x3 protocol:1 global:1
+[main]  setsockopt(1 0x9 0x555556383d70 0x4) on fd 371 [29:3:1]
+[main]  socket fd:372 domain:29 (CAN) type:0x2 protocol:2 global:1
+[main]  setsockopt(1 0x29 0x555556383db0 0x4) on fd 372 [29:2:2]
+[main]  socket fd:373 domain:31 (BLUETOOTH) type:0x5 protocol:0 global:1
+[main]  socket fd:374 domain:31 (BLUETOOTH) type:0x5 protocol:2 global:1
+[main]  socket fd:375 domain:31 (BLUETOOTH) type:0x1 protocol:0 global:1
+[main]  socket fd:376 domain:31 (BLUETOOTH) type:0x1 protocol:3 global:1
+[main]  socket fd:377 domain:31 (BLUETOOTH) type:0x3 protocol:1 global:1
+[main]  socket fd:378 domain:31 (BLUETOOTH) type:0x3 protocol:3 global:1
+[main]  socket fd:379 domain:31 (BLUETOOTH) type:0x3 protocol:4 global:1
+[main]  socket fd:380 domain:31 (BLUETOOTH) type:0x3 protocol:5 global:1
+[main]  socket fd:381 domain:31 (BLUETOOTH) type:0x3 protocol:6 global:1
+[main]  socket fd:382 domain:31 (BLUETOOTH) type:0x2 protocol:0 global:1
+[main]  socket fd:383 domain:33 (RXRPC) type:0x2 protocol:2 global:1
+[main]  setsockopt(272 0x6 0x0 0x4) on fd 383 [33:2:2]
+[main]  socket fd:384 domain:39 (NFC) type:0x5 protocol:0 global:1
+[main]  socket fd:385 domain:39 (NFC) type:0x2 protocol:1 global:1
+[main]  setsockopt(280 0x0 0x5555563840f0 0x4) on fd 385 [39:2:1]
+[main]  socket fd:386 domain:39 (NFC) type:0x1 protocol:1 global:1
+[main]  setsockopt(280 0x0 0x555556384130 0x1) on fd 386 [39:1:1]
+[main]  socket fd:387 domain:41 (KCM) type:0x2 protocol:0 global:1
+[main]  setsockopt(281 0x1 0x555556384170 0x4) on fd 387 [41:2:0]
+[main]  socket fd:388 domain:1 (LOCAL) type:0x1 protocol:1 global:1
+[main]  setsockopt(1 0x25 0x5555563841b0 0x4) on fd 388 [1:1:1]
+[main]  78 sockets created based on info from socket cachefile.
+[main]  testfile fd:310 filename:trinity-testfile1 flags:2 fopened:1 fcntl_flags:4000 global:1
+[main]  testfile fd:389 filename:trinity-testfile2 flags:2 fopened:1 fcntl_flags:800 global:1
+[main]  testfile fd:390 filename:trinity-testfile3 flags:2 fopened:1 fcntl_flags:44000 global:1
+[main]  testfile fd:391 filename:trinity-testfile4 flags:2 fopened:1 fcntl_flags:4000 global:1
+[main]  testfile fd:392 filename:trinity-testfile1 flags:2 fopened:1 fcntl_flags:44000 global:1
+[main]  testfile fd:393 filename:trinity-testfile2 flags:2 fopened:1 fcntl_flags:4000 global:1
+[main]  testfile fd:394 filename:trinity-testfile3 flags:2 fopened:1 fcntl_flags:44800 global:1
+[main]  testfile fd:395 filename:trinity-testfile4 flags:1040 fopened:0 fcntl_flags:0 global:1
+[main]  testfile fd:396 filename:trinity-testfile1 flags:1040 fopened:0 fcntl_flags:0 global:1
+[main]  testfile fd:397 filename:trinity-testfile2 flags:2 fopened:1 fcntl_flags:6400 global:1
+[main]  testfile fd:398 filename:trinity-testfile3 flags:101040 fopened:0 fcntl_flags:0 global:1
+[main]  testfile fd:399 filename:trinity-testfile4 flags:2 fopened:1 fcntl_flags:6800 global:1
+[main]  testfile fd:400 filename:trinity-testfile1 flags:2 fopened:1 fcntl_flags:46400 global:1
+[main]  testfile fd:401 filename:trinity-testfile2 flags:2 fopened:1 fcntl_flags:40800 global:1
+[main]  testfile fd:402 filename:trinity-testfile3 flags:2 fopened:1 fcntl_flags:800 global:1
+[main]  testfile fd:403 filename:trinity-testfile4 flags:2 fopened:1 fcntl_flags:40000 global:1
+[main]  testfile fd:404 filename:trinity-testfile1 flags:101040 fopened:0 fcntl_flags:0 global:1
+[main]  testfile fd:405 filename:trinity-testfile2 flags:105040 fopened:0 fcntl_flags:0 global:1
+[main]  testfile fd:406 filename:trinity-testfile3 flags:2 fopened:1 fcntl_flags:44800 global:1
+[main]  testfile fd:407 filename:trinity-testfile4 flags:101040 fopened:0 fcntl_flags:0 global:1
+[main]  Enabled 8/8 fd providers. initialized:8.
+[main]  Error opening tracing_on : Permission denied
+[child0:10092] [7595718147998050665] [Syscall Num: 1] write(fd=23, buf=0x555556386e60, count=201) = 8
+[child0:10092] [7595718147998050665] [Syscall Num: 2] open(filename="/sys/devices/pci0000:00/0000:00:14.0/usb1/1-5/devnum", flags=0x33001, mode=666) = -1 (Not a directory)
+[child0:10092] [7595718147998050665] [Syscall Num: 5] newfstat(fd=23, statbuf=0x8) = -1 (Bad address)
+[child0:10092] [7595718147998050665] [Syscall Num: 6] newlstat(filename="/sys/devices/system/memory/memory154/phys_device", statbuf=0x8) = -1 (Bad address)
+[child0:10092] [7595718147998050665] [Syscall Num: 7] poll(ufds=0x5555563841b0, nfds=8, timeout_msecs=0) = 3
+[child0:10092] [7595718147998050665] [Syscall Num: 8] lseek(fd=310, offset=243, whence=0x1) = 243
+[child0:10092] [7595718147998050665] [Syscall Num: 9] mmap(addr=0, len=4096, prot=0x4[PROT_EXEC], flags=0x4004062, fd=-1, off=0) = 0x40055000
+[child0:10092] [7595718147998050665] [Syscall Num: 10] mprotect(start=0x7ffff7fe9000, len=0, prot=0x2000000) = 0
+[child0:10092] [7595718147998050665] [Syscall Num: 11] munmap(addr=0x7ffff6af4000, len=4096) = 0
+[child0:10092] [7595718147998050665] [Syscall Num: 14] rt_sigprocmask(how=0x10000000, set=0x7ffff7ed9000, oset=0x7ffff7fe8000, sigsetsize=128) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 17] pread64(fd=310, buf=0x7ffff7fe9000, count=314, pos=1) = 0
+[child0:10092] [7595718147998050665] [Syscall Num: 18] pwrite64(fd=18, buf=0x55555638d080, count=772, pos=219) = -1 (Illegal seek)
+[child0:10092] [7595718147998050665] [Syscall Num: 19] readv(fd=18, vec=0x555556376740, vlen=1) = 8
+[child0:10092] [7595718147998050665] [Syscall Num: 20] writev(fd=18, vec=0x55555638d390, vlen=138) = 8
+[child0:10092] [7595718147998050665] [Syscall Num: 21] access(filename="/sys/devices/pci0000:00/0000:00:17.0/ata4/host3/target3:0:0/3:0:0:0/block/sda/sda4/trace/end_lba", mode=770) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 22] pipe(fildes=0x7ffff7fea000) = -1 (Bad address)
+[child0:10092] [7595718147998050665] [Syscall Num: 23] select(n=20, inp=0x55555638d400, outp=0x55555638d490, exp=0x55555638d520, tvp=0x555556376520) = 2
+[child0:10092] [7595718147998050665] [Syscall Num: 24] sched_yield() = 0
+[child0:10092] [7595718147998050665] [Syscall Num: 25] mremap(addr=0x7ffff68f8000, old_len=0x75000, new_len=0x100000, flags=0x4, new_addr=0) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 26] msync(start=0x7ffff7fea000, len=0, flags=0x3) = 0
+[child0:10092] [7595718147998050665] [Syscall Num: 28] madvise(start=0x7ffff7fe7000, len_in=0, advice=0xf) = 0
+[child0:10092] [7595718147998050665] [Syscall Num: 32] dup(fildes=18) = 408
+[child0:10092] [7595718147998050665] [Syscall Num: 33] dup2(oldfd=18, newfd=345) = 345
+[child0:10092] [7595718147998050665] [Syscall Num: 36] getitimer(which=0x420b0dc24119, value=0x7ffff68f8000) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 39] getpid() = 0x276c
+[child0:10092] [7595718147998050665] [Syscall Num: 40] sendfile(out_fd=15, in_fd=297, offset=0x7ffff62f8000, count=8) = -1 (Illegal seek)
+[child0:10092] [7595718147998050665] [Syscall Num: 41] socket(family=39, type=0x80802, protocol=1) = 409
+[child0:10092] [7595718147998050665] [Syscall Num: 42] connect(fd=339, uservaddr=0x555556333c50, addrlen=110) = 0
+[child0:10092] [7595718147998050665] [Syscall Num: 43] accept(fd=321, upeer_sockaddr=0x555555fd4840, upeer_addrlen=110) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 44] sendto(fd=340, buff=0x555556376520, len=1, flags=0x1897c, addr=0x555556096f30, addr_len=110) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 45] recvfrom(fd=316, ubuf=0x8, size=8, flags=0xa4054345, addr=0x5555560c7670, addr_len=110) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 46] sendmsg(fd=342, msg=0x55555638d5b0, flags=0x6) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 47] recvmsg(fd=314, msg=0x4, flags=0x4010440) = -1 (Bad address)
+[child0:10092] [7595718147998050665] [Syscall Num: 48] shutdown(fd=15, how=0x1) = -1 (Socket operation on non-socket)
+[child0:10092] [7595718147998050665] [Syscall Num: 49] bind(fd=361, umyaddr=0x55555638d5f0, addrlen=1965) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 50] listen(fd=15, backlog=-33) = -1 (Socket operation on non-socket)
+[child0:10092] [7595718147998050665] [Syscall Num: 51] getsockname(fd=358, usockaddr=0x55555623f800, usockaddr_len=110) = -1 (Bad address)
+[child0:10092] [7595718147998050665] [Syscall Num: 52] getpeername(fd=388, usockaddr=0x5555562c1e50, usockaddr_len=110) = -1 (Transport endpoint is not connected)
+[child0:10092] [7595718147998050665] [Syscall Num: 53] socketpair(family=1, type=0x18007c0c0244, protocol=0x2d434234e0, usockvec=0x555556376520) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 54] setsockopt(fd=338, level=270, optname=5, optval=0, optlen=4) = -1 (Bad address)
+[child0:10092] [7595718147998050665] [Syscall Num: 55] getsockopt(fd=367, level=-5, optname=1, optval=0x7ffff62f8000, optlen=1214) = -1 (Operation not supported)
+[child0:10092] [7595718147998050665] [Syscall Num: 72] fcntl(fd=15, cmd=0x11, arg=88) = -1 (Bad address)
+[child0:10092] [7595718147998050665] [Syscall Num: 73] flock(fd=298, cmd=0x9d9d9d9d) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 76] truncate(path="/sys/devices/virtual/block/loop23/queue/logical_block_size", length=0) = -1 (Permission denied)
+[child0:10092] [7595718147998050665] [Syscall Num: 77] ftruncate(fd=298, length=8) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 79] getcwd(buf=0x7ffff62f8000, size=4096) = 99
+[child0:10092] [7595718147998050665] [Syscall Num: 80] chdir(filename="/sys/devices/virtual/bdi/7:14/min_ratio") = -1 (Not a directory)
+[child0:10092] [7595718147998050665] [Syscall Num: 81] fchdir(fd=298) = -1 (Not a directory)
+[child0:10092] [7595718147998050665] [Syscall Num: 82] rename(oldname="/sys/devices/pci0000:00/0000:00:01.0/0000:01:00.1/sound/card1/controlC1/power/async", newname="/sys/devices/pci0000:00/0000:00:08.0/power/control") = -1 (Permission denied)
+[child0:10092] [7595718147998050665] [Syscall Num: 83] mkdir(pathname="/sys/devices/virtual/thermal/thermal_zone0/hwmon1/temp1_crit", mode=413) = -1 (File exists)
+[child0:10092] [7595718147998050665] [Syscall Num: 84] rmdir(pathname="/sys/devices/system/memory/memory259/removable") = -1 (Permission denied)
+[child0:10092] [7595718147998050665] [Syscall Num: 85] creat(pathname="/sys/devices/pci0000:00/0000:00:1f.3/sound/card0/controlC0/power", mode=2477) = -1 (Is a directory)
+[child0:10092] [7595718147998050665] [Syscall Num: 86] link(oldname="/sys/devices/system/memory/memory208", newname="/sys/devices/system/memory/memory339") = -1 (File exists)
+[child0:10092] [7595718147998050665] [Syscall Num: 87] unlink(pathname="/sys/devices/system/memory/memory10/online") = -1 (Permission denied)
+[child0:10092] [7595718147998050665] [Syscall Num: 88] symlink(oldname="/sys/devices/virtual/block/loop14/queue/max_integrity_segments", newname="/sys/devices/system/memory/memory355/phys_index") = -1 (File exists)
+[child0:10092] [7595718147998050665] [Syscall Num: 89] readlink(path="/sys/devices/pci0000:00/0000:00:17.0/ata1/link1/dev1.0/ata_device/dev1.0/power/control", buf=0x7ffff64f8000, bufsiz=0) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 90] chmod(filename="/sys/firmware/efi/esrt/entries", mode=0) = -1 (Operation not permitted)
+[child0:10092] [7595718147998050665] [Syscall Num: 91] fchmod(fd=298, mode=40) = -1 (Operation not permitted)
+[child0:10092] [7595718147998050665] [Syscall Num: 92] chown(filename="/sys/devices/system/edac", user=0xd8bfe712516890, group=0xfffffffffff7ffff) = -1 (Operation not permitted)
+[child0:10092] [7595718147998050665] [Syscall Num: 93] fchown(fd=298, user=-1, group=162) = -1 (Operation not permitted)
+[child0:10092] [7595718147998050665] [Syscall Num: 94] lchown(filename="/sys/devices/pci0000:00/0000:00:1f.3/sound/card0/input34/event24/power/runtime_active_kids", user=0x2000000, group=142) = -1 (Operation not permitted)
+[child0:10092] [7595718147998050665] [Syscall Num: 95] umask(mask=213) = 2
+[child0:10092] [7595718147998050665] [Syscall Num: 96] gettimeofday(tv=0x40055000, tz=0x40055004) = 0
+[child0:10092] [7595718147998050665] [Syscall Num: 98] getrusage(who=0x1d1d1d1d, ru=0x7ffff64f8000) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 99] sysinfo(info=0x7ffff62f8000) = 0
+[child0:10092] [7595718147998050665] [Syscall Num: 103] syslog(type=0x0, buf=0x7ffff7fe7000, len=0) = -1 (Operation not permitted)
+[child0:10092] [7595718147998050665] [Syscall Num: 104] getgid() = 1000
+[child0:10092] [7595718147998050665] [Syscall Num: 105] setuid(uid=0xfd1137) = -1 (Operation not permitted)
+[child0:10092] [7595718147998050665] [Syscall Num: 106] setgid(gid=0x20e757997a7b) = -1 (Operation not permitted)
+[child0:10092] [7595718147998050665] [Syscall Num: 107] geteuid() = 1000
+[child0:10092] [7595718147998050665] [Syscall Num: 108] getegid() = 1000
+[child0:10092] [7595718147998050665] [Syscall Num: 109] setpgid(pid=0, pgid=2048) = -1 (Operation not permitted)
+[child0:10092] [7595718147998050665] [Syscall Num: 110] getppid() = 0x2766
+[child0:10092] [7595718147998050665] [Syscall Num: 111] getpgrp() = 0x276c
+[child0:10092] [7595718147998050665] [Syscall Num: 113] setreuid(ruid=71, euid=205) = -1 (Operation not permitted)
+[child0:10092] [7595718147998050665] [Syscall Num: 114] setregid(rgid=0x97e87a7c5b67, egid=0x5806a0c63806440c) = -1 (Operation not permitted)
+[child0:10092] [7595718147998050665] [Syscall Num: 115] getgroups(gidsetsize=-5, grouplist=0x1) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 116] setgroups(gidsetsize=0x92929292, grouplist=0x8) = -1 (Operation not permitted)
+[child0:10092] [7595718147998050665] [Syscall Num: 117] setresuid(ruid=-513, euid=16, suid=0x124cc1801) = -1 (Operation not permitted)
+[child0:10092] [7595718147998050665] [Syscall Num: 118] getresuid(ruid=0x7ffff7fe6000, euid=0x7ffff66f8000, suid=0x7ffff7ed9000) = 0
+[child0:10092] [7595718147998050665] [Syscall Num: 119] setresgid(rgid=0x400200, egid=0x480f48008072b6, sgid=0xffffffffffffbfff) = -1 (Operation not permitted)
+[child0:10092] [7595718147998050665] [Syscall Num: 121] getpgid(pid=0) = 0x276c
+[child0:10092] [7595718147998050665] [Syscall Num: 122] setfsuid(uid=207) = 1000
+[child0:10092] [7595718147998050665] [Syscall Num: 123] setfsgid(gid=0xfff6) = 1000
+[child0:10092] [7595718147998050665] [Syscall Num: 124] getsid(pid=0) = 0x276c
+[child0:10092] [7595718147998050665] [Syscall Num: 127] rt_sigpending(set=0x7ffff7fe9000, sigsetsize=0xffc7f88c949ece4d) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 131] sigaltstack(uss=0x7ffff69f8000, uoss=0x7ffff69f8008, regs=0x7ffff69f8010) = -1 (Cannot allocate memory)
+[child0:10092] [7595718147998050665] [Syscall Num: 133] mknod(filename="/sys/module/caif_socket/holders", mode=2040, dev=0x2373a59194) = -1 (File exists)
+[child0:10092] [7595718147998050665] [Syscall Num: 137] statfs(pathname="/sys/devices/virtual/tty/tty23/uevent", buf=0x0) = -1 (Bad address)
+[child0:10092] [7595718147998050665] [Syscall Num: 138] fstatfs(fd=298, buf=0x8) = -1 (Bad address)
+[child0:10092] [7595718147998050665] [Syscall Num: 142] sched_setparam(pid=0, param=0x7ffff64f8000) = 0
+[child0:10092] [7595718147998050665] [Syscall Num: 143] sched_getparam(pid=0, param=0x0) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 144] sched_setscheduler(pid=0, policy=0x0, param=0x7ffff66f8000) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 145] sched_getscheduler(pid=0) = 0
+[child0:10092] [7595718147998050665] [Syscall Num: 146] sched_get_priority_max(policy=0x4000003a) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 147] sched_get_priority_min(policy=0x40422c5) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 149] mlock(addr=0x7ffff7ed9000, len=0x6b000) = 0
+[child0:10092] [7595718147998050665] [Syscall Num: 165] mount(dev_name="/sys/devices/system/memory/memory474/power/runtime_enabled", dir_name="/sys/module/aesni_intel/notes", type=0x7ffff66f8000, flags=0x400, data=0x7ffff66f8001) = -1 (No such device)
+[child0:10092] [7595718147998050665] [Syscall Num: 166] umount(name="/sys/devices/pci0000:00/0000:00:01.0/0000:01:00.0/i2c-5/uevent", flags=0x2) = -1 (Operation not permitted)
+[child0:10092] [7595718147998050665] [Syscall Num: 170] sethostname(name=0x7ffff7fe8000, len=4096) = -1 (Operation not permitted)
+[child0:10092] [7595718147998050665] [Syscall Num: 202] futex(uaddr=0x555555f76f70, op=0x10b, val=0, utime=0x1, uaddr2=0x555555f78430, val3=0xffffe000) = -1 (Bad address)
+[child0:10092] [7595718147998050665] [Syscall Num: 203] sched_setaffinity(pid=0, len=31, user_mask_ptr=0x8) = -1 (Bad address)
+[child0:10092] [7595718147998050665] [Syscall Num: 204] sched_getaffinity(pid=0, len=8, user_mask_ptr=0x7ffff7fe6000) = 8
+[child0:10092] [7595718147998050665] [Syscall Num: 217] getdents64(fd=195, dirent=0x7ffff7fe7000, count=0x2220000) = -1 (Not a directory)
+[child0:10092] [7595718147998050665] [Syscall Num: 221] fadvise64(fd=195, offset=0xcccccccc, len=4, advice=0x0) = 0
+[child0:10092] [7595718147998050665] [Syscall Num: 227] clock_settime(which_clock=4096, tp=0x7ffff62f8000) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 228] clock_gettime(which_clock=238, tp=0x7ffff7fe7000) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 229] clock_getres(which_clock=-6, tp=0x7ffff66f8000) = 0
+[child0:10092] [7595718147998050665] [Syscall Num: 233] epoll_ctl(epfd=195, op=0x3, fd=17, event=0x555556376520) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 253] inotify_init() = 410
+[main]  inotify fd:410 flags:3f global:0
+[child0:10092] [7595718147998050665] [Syscall Num: 254] inotify_add_watch(fd=17, pathname="/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/PNP0C02:06/status", mask=0x1) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 255] inotify_rm_watch(fd=17, wd=0x900a42) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 257] openat(dfd=17, filename="/sys/devices/virtual/dmi/id/power/runtime_active_kids", flags=0x347001, mode=1070) = 411
+[child0:10092] [7595718147998050665] [Syscall Num: 258] mkdirat(dfd=310, pathname="/sys/devices/system/memory/memory14/power/autosuspend_delay_ms", mode=20) = -1 (File exists)
+[child0:10092] [7595718147998050665] [Syscall Num: 260] fchownat(dfd=310, filename="/sys/devices/pnp0/00:01/power/control", user=0xffffe000, group=31, flag=0x63636363) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 261] futimesat(dfd=310, filename="/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:5a/power/autosuspend_delay_ms", utimes=0x7ffff7fe7000) = -1 (Operation not permitted)
+[child0:10092] [7595718147998050665] [Syscall Num: 262] fstatat64(dfd=310, filename="/sys/module/iwlwifi/parameters/disable_11ac", statbuf=0x8, flag=-10) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 263] unlinkat(dfd=310, pathname="/sys/devices/system/memory/memory255/valid_zones", flag=-4) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 264] renameat(olddfd=300, oldname="/sys/devices/system/memory/memory456/valid_zones", newdfd=299, newname="/sys/devices/pci0000:00/0000:00:14.0/usb1/1-8/1-8:1.1/authorized") = -1 (Permission denied)
+[child0:10092] [7595718147998050665] [Syscall Num: 266] symlinkat(oldname="/sys/devices/pci0000:00/0000:00:01.0/0000:01:00.1/sound/card1/input45/capabilities/ev", newdfd=300, newname="/sys/devices/system/cpu/cpu0/cache/index3/id") = -1 (File exists)
+[child0:10092] [7595718147998050665] [Syscall Num: 267] readlinkat(dfd=247, pathname="/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:1b/PNP0C09:00/PNP0C0A:00/modalias", buf=0x1, bufsiz=8192) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 268] fchmodat(dfd=247, filename="/sys/devices/virtual/tty/tty24/power/autosuspend_delay_ms", mode=1304) = -1 (Operation not permitted)
+[child0:10092] [7595718147998050665] [Syscall Num: 269] faccessat(dfd=247, filename="/sys/devices/system/memory/memory370/power/runtime_usage", mode=0) = 0
+[child0:10092] [7595718147998050665] [Syscall Num: 274] get_robust_list(pid=0, head_ptr=0x7ffff69f8000, len_ptr=0x7ffff7feb000) = 0
+[child0:10092] [7595718147998050665] [Syscall Num: 280] utimensat(dfd=247, filename="/sys/devices/pci0000:00/0000:00:1b.0/0000:02:00.0/nvme/nvme0/nvme0n1/queue/discard_max_hw_bytes", utimes=0x0, flags=0x100) = -1 (Permission denied)
+[child0:10092] [7595718147998050665] [Syscall Num: 281] epoll_pwait(epfd=353, events=0x1, maxevents=0xfff9, timeout=0xe3e3, sigmask=0x3b3b3b3b, sigsetsize=0x8000000400) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 285] fallocate(fd=353, mode=0x11, offset=0, len=1) = -1 (No such device)
+[child0:10092] [7595718147998050665] [Syscall Num: 288] accept4(fd=333, upeer_sockaddr=0x555556376520, upeer_addrlen=16, flags=0x80000) = -1 (Operation not supported)
+[child0:10092] [7595718147998050665] [Syscall Num: 290] eventfd2(count=8, flags=0x80000) = 412
+[main]  eventfd fd:412 count:8 flags:80000 global:0
+[child0:10092] [7595718147998050665] [Syscall Num: 291] epoll_create1(flags=0x80000) = 413
+[main]  epoll fd:413 used create1?:0 flags:0 global:0
+[child0:10092] [7595718147998050665] [Syscall Num: 292] dup3(oldfd=353, newfd=399, flags=0x0) = 399
+[child0:10092] [7595718147998050665] [Syscall Num: 293] pipe2(fildes=0x7ffff66f8000, flags=0x4800) = 0
+[child0:10092] [7595718147998050665] [Syscall Num: 294] inotify_init1(flags=0x80000) = 416
+[main]  inotify fd:416 flags:0 global:0
+[child0:10092] [7595718147998050665] [Syscall Num: 295] preadv(fd=353, vec=0x55555638e780, vlen=71, pos_l=0x8000, pos_h=0x84848484) = -1 (Illegal seek)
+[child0:10092] [7595718147998050665] [Syscall Num: 296] pwritev(fd=406, vec=0x55555638e780, vlen=28, pos_l=8, pos_h=124) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 299] recvmmsg(fd=345, mmsg=0x8, vlen=0x1fffff, flags=0x7, timeout=0x7ffff62f8000) = -1 (Socket operation on non-socket)
+[child0:10092] [7595718147998050665] [Syscall Num: 302] prlimit64(pid=0, resource=32, new_rlim=0x7ffff7fe9000, old_rlim=0x7ffff7fe9000) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 307] sendmmsg(fd=315, mmsg=0x7ffff7fe6000, vlen=4, flags=0x6004b836) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 309] getcpu(cpup=0x7ffff7feb000, nodep=0x7ffff7feb008, unused=0x7ffff7fe6000) = 0
+[child0:10092] [7595718147998050665] [Syscall Num: 318] seccomp(op=0x1, flags=0x1, uargs=0x7ffff64f8000) = -1 (Invalid argument)
+[child0:10092] [7595718147998050665] [Syscall Num: 324] membarrier(cmd=0x0, flags=0) = 127
+[child0:10092] [7595718147998050665] [Syscall Num: 327] preadv2(fd=406, vec=0x555556376570, vlen=1, pos_l=0x5222, pos_h=141, flags=0x1) = 0
+[child0:10092] [7595718147998050665] [Syscall Num: 328] pwritev2(fd=406, vec=0x555556376570, vlen=1, pos_l=207, pos_h=0xf109305c2442829, flags=0x3) = -1 (Invalid argument)

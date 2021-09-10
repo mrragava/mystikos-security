@@ -1,0 +1,164 @@
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  futex: 0 owner:0 global:1
+[main]  Reserved/initialized 40 futexes.
+[main]  epoll fd:6 used create1?:1 flags:80000 global:1
+[main]  epoll fd:7 used create1?:0 flags:0 global:1
+[main]  epoll fd:8 used create1?:0 flags:0 global:1
+[main]  epoll fd:9 used create1?:1 flags:80000 global:1
+[main]  epoll fd:10 used create1?:0 flags:0 global:1
+[main]  epoll fd:11 used create1?:1 flags:80000 global:1
+[main]  epoll fd:12 used create1?:0 flags:0 global:1
+[main]  epoll fd:13 used create1?:0 flags:0 global:1
+[main]  epoll fd:14 used create1?:0 flags:0 global:1
+[main]  epoll fd:15 used create1?:1 flags:80000 global:1
+[main]  eventfd fd:16 count:2024407040 flags:0 global:1
+[main]  eventfd fd:17 count:-7 flags:800 global:1
+[main]  eventfd fd:18 count:12521658 flags:801 global:1
+[main]  eventfd fd:19 count:1717986918 flags:80000 global:1
+[main]  eventfd fd:21 count:-65504 flags:80800 global:1
+[main]  eventfd fd:22 count:-9 flags:80001 global:1
+[main]  eventfd fd:23 count:22382164 flags:80801 global:1
+[main]  eventfd fd:25 count:0 flags:1 global:1
+[main]  Generating file descriptors
+[main]  Added 0 filenames from /files_fd_path
+[main]  Didn't add any files!!
+[main]  inotify fd:26 flags:0 global:1
+[main]  inotify fd:27 flags:0 global:1
+[main]  inotify fd:28 flags:800 global:1
+[main]  inotify fd:29 flags:80000 global:1
+[main]  inotify fd:34 flags:80800 global:1
+[main]  pipe fd:35 flags:0 [reader] global:1
+[main]  pipe fd:36 flags:0 [writer] global:1
+[main]  pipe fd:37 flags:800 [reader] global:1
+[main]  pipe fd:47 flags:800 [writer] global:1
+[main]  pipe fd:48 flags:80000 [reader] global:1
+[main]  pipe fd:54 flags:80000 [writer] global:1
+[main]  pipe fd:55 flags:80800 [reader] global:1
+[main]  pipe fd:56 flags:80800 [writer] global:1
+[main]  testfile fd:57 filename:trinity-testfile1 flags:2 fopened:1 fcntl_flags:0 global:1
+[main]  testfile fd:58 filename:trinity-testfile2 flags:2 fopened:1 fcntl_flags:42800 global:1
+[main]  testfile fd:59 filename:trinity-testfile3 flags:2 fopened:1 fcntl_flags:46800 global:1
+[main]  testfile fd:60 filename:trinity-testfile4 flags:2 fopened:1 fcntl_flags:0 global:1
+[main]  testfile fd:61 filename:trinity-testfile1 flags:2 fopened:1 fcntl_flags:46000 global:1
+[main]  testfile fd:62 filename:trinity-testfile2 flags:101040 fopened:0 fcntl_flags:0 global:1
+[main]  testfile fd:63 filename:trinity-testfile3 flags:2 fopened:1 fcntl_flags:46800 global:1
+[main]  testfile fd:64 filename:trinity-testfile4 flags:2 fopened:1 fcntl_flags:42800 global:1
+[main]  testfile fd:65 filename:trinity-testfile1 flags:2 fopened:1 fcntl_flags:42000 global:1
+[main]  testfile fd:66 filename:trinity-testfile2 flags:2 fopened:1 fcntl_flags:6800 global:1
+[main]  testfile fd:67 filename:trinity-testfile3 flags:2 fopened:1 fcntl_flags:4c00 global:1
+[main]  testfile fd:68 filename:trinity-testfile4 flags:2 fopened:1 fcntl_flags:42400 global:1
+[main]  testfile fd:69 filename:trinity-testfile1 flags:4040 fopened:0 fcntl_flags:0 global:1
+[main]  testfile fd:70 filename:trinity-testfile2 flags:2 fopened:1 fcntl_flags:4c00 global:1
+[main]  testfile fd:71 filename:trinity-testfile3 flags:2 fopened:1 fcntl_flags:0 global:1
+[main]  testfile fd:72 filename:trinity-testfile4 flags:2 fopened:1 fcntl_flags:0 global:1
+[main]  testfile fd:73 filename:trinity-testfile1 flags:4040 fopened:0 fcntl_flags:0 global:1
+[main]  testfile fd:74 filename:trinity-testfile2 flags:2 fopened:1 fcntl_flags:2000 global:1
+[main]  testfile fd:75 filename:trinity-testfile3 flags:2 fopened:1 fcntl_flags:0 global:1
+[main]  testfile fd:76 filename:trinity-testfile4 flags:2 fopened:1 fcntl_flags:4800 global:1
+[main]  Enabled 6/8 fd providers. initialized:6.
+[main]  Error opening tracing_on : Permission denied
+[child0:25909] [17868022691004938231] [Syscall Num: 227] clock_settime(which_clock=1024, tp=0x4) = -1 (Invalid argument)
+[child0:25909] [17868022691004938231] [Syscall Num: 44] sendto(fd=69, buff=0x555555f845d0, len=2527, flags=0x2, addr=0x555555f84550, addr_len=110) = -1 (Socket operation on non-socket)
+[child0:25909] [17868022691004938231] [Syscall Num: 47] recvmsg(fd=69, msg=0x8, flags=0xc001313e) = -1 (Invalid argument)
+[child0:25909] [17868022691004938231] [Syscall Num: 85] creat(pathname="(null)", mode=4200) = -1 (Bad address)
+[child0:25909] [17868022691004938231] [Syscall Num: 99] sysinfo(info=0x7ffff7fe9000) = 0
+[child0:25909] [17868022691004938231] [Syscall Num: 91] fchmod(fd=69, mode=0) = 0
+[child0:25909] [17868022691004938231] [Syscall Num: 268] fchmodat(dfd=54, filename="(null)", mode=4002) = -1 (Bad address)
+[child0:25909] [17868022691004938231] [Syscall Num: 40] sendfile(out_fd=54, in_fd=54, offset=0x7ffff7fe8000, count=1) = -1 (Bad file descriptor)
+[child0:25909] [17868022691004938231] [Syscall Num: 17] pread64(fd=54, buf=0x1, count=1352, pos=109) = -1 (Illegal seek)
+[child0:25909] [17868022691004938231] [Syscall Num: 261] futimesat(dfd=29, filename="(null)", utimes=0x7ffff7ed9000) = -1 (Operation not permitted)
+[child0:25909] [17868022691004938231] [Syscall Num: 5] newfstat(fd=29, statbuf=0x7ffff7fe7000) = 0
+[child0:25909] [17868022691004938231] [Syscall Num: 52] getpeername(fd=29, usockaddr=0x555555f845d0, usockaddr_len=110) = -1 (Socket operation on non-socket)
+[child0:25909] [17868022691004938231] [Syscall Num: 232] epoll_wait(epfd=29, events=0x0, maxevents=252, timeout=0xffff) = -1 (Invalid argument)
+[child0:25909] [17868022691004938231] [Syscall Num: 327] preadv2(fd=29, vec=0x555555f84650, vlen=14, pos_l=0xfffffffffffe0000, pos_h=0xe4e4e4e4, flags=0x0) = -1 (Invalid argument)
+[child0:25909] [17868022691004938231] [Syscall Num: 157] prctl(option=22, arg2=0x59595959, arg3=-2, arg4=0x7dffffff, arg5=129) = -1 (Invalid argument)
+[child0:25909] [17868022691004938231] [Syscall Num: 281] epoll_pwait(epfd=21, events=0x0, maxevents=-2, timeout=0xfffffff7, sigmask=0xca710f5fbc85, sigsetsize=6340) = -1 (Invalid argument)
+[child0:25909] [17868022691004938231] [Syscall Num: 99] sysinfo(info=0x7ffff7ed9000) = 0
+[child0:25909] [17868022691004938231] [Syscall Num: 48] shutdown(fd=21, how=0x2) = -1 (Socket operation on non-socket)
+[child0:25909] [17868022691004938231] [Syscall Num: 84] rmdir(pathname="(null)") = -1 (Bad address)
+[child0:25909] [17868022691004938231] [Syscall Num: 32] dup(fildes=21) = 77
+[child0:25909] [17868022691004938231] [Syscall Num: 288] accept4(fd=21, upeer_sockaddr=0x555555f84740, upeer_addrlen=16, flags=0x0) = -1 (Socket operation on non-socket)
+[child0:25909] [17868022691004938231] [Syscall Num: 318] seccomp(op=0x0, flags=0x0, uargs=0x0) = 0
+[child0:25909] [17868022691004938231] [Syscall Num: 86] link(oldname="(null)", newname="(null)") = -1 (Bad address)
+[child0:25909] [17868022691004938231] [Syscall Num: 121] getpgid(pid=0) = 0x6535
+[child0:25909] [17868022691004938231] [Syscall Num: 257] openat(dfd=21, filename="(null)", flags=0x90101, mode=666) = -1 (Bad address)
+[child0:25909] [17868022691004938231] [Syscall Num: 147] sched_get_priority_min(policy=159) = -1 (Invalid argument)
+[child0:25909] [17868022691004938231] [Syscall Num: 14] rt_sigprocmask(how=158, set=0x7ffff7ed9000, oset=0x7ffff7ed9001, sigsetsize=128) = -1 (Invalid argument)
+[child0:25909] [17868022691004938231] [Syscall Num: 269] faccessat(dfd=21, filename="(null)", mode=0) = -1 (Bad address)
+[child0:25909] [17868022691004938231] [Syscall Num: 127] rt_sigpending(set=0x7ffff7fe8000, sigsetsize=140) = -1 (Invalid argument)
+[child0:25909] [17868022691004938231] [Syscall Num: 116] setgroups(gidsetsize=0x65656565, grouplist=0x8) = -1 (Operation not permitted)
+[child0:25909] [17868022691004938231] [Syscall Num: 147] sched_get_priority_min(policy=1682) = -1 (Invalid argument)
+[child0:25909] [17868022691004938231] [Syscall Num: 59] execve(name="(null)", argv=0x555555f84760, envp=0x555555f8a800) = -1 (Bad address)
+[child0:25909] [17868022691004938231] [Syscall Num: 77] ftruncate(fd=27, length=4) = -1 (Invalid argument)
+[child0:25909] [17868022691004938231] [Syscall Num: 266] symlinkat(oldname="(null)", newdfd=27, newname="(null)") = -1 (Bad address)
+[child0:25909] [17868022691004938231] [Syscall Num: 118] getresuid(ruid=0x7ffff69f8000, euid=0x7ffff69f8004, suid=0x7ffff66f8000) = 0
+[child0:25909] [17868022691004938231] [Syscall Num: 26] msync(start=0x7ffff7ed9000, len=0x32000, flags=0x6) = 0
+[child0:25909] [17868022691004938231] [Syscall Num: 23] select(n=16, inp=0x555555f8a800, outp=0x555555f847a0, exp=0x555555f84830, tvp=0x555555f848c0) = -1 (Bad file descriptor)
+[child0:25909] [17868022691004938231] [Syscall Num: 186] gettid() = 0x6535
+[child0:25909] [17868022691004938231] [Syscall Num: 328] pwritev2(fd=27, vec=0x555555f848e0, vlen=5, pos_l=0x33333333, pos_h=0xffffff39cc0dc5ad, flags=0x4) = -1 (Illegal seek)
+[child0:25909] [17868022691004938231] [Syscall Num: 86] link(oldname="(null)", newname="(null)") = -1 (Bad address)
+[child0:25909] [17868022691004938231] [Syscall Num: 6] newlstat(filename="(null)", statbuf=0x7ffff66f8000) = -1 (Bad address)
+[child0:25909] [17868022691004938231] [Syscall Num: 10] mprotect(start=0x7ffff7fe7000, len=0, prot=0x3) = 0
+[child0:25909] [17868022691004938231] [Syscall Num: 288] accept4(fd=27, upeer_sockaddr=0x555555f84940, upeer_addrlen=110, flags=0x0) = -1 (Socket operation on non-socket)
+[child0:25909] [17868022691004938231] [Syscall Num: 258] mkdirat(dfd=56, pathname="(null)", mode=1020) = -1 (Bad address)
+[child0:25909] [17868022691004938231] [Syscall Num: 274] get_robust_list(pid=0, head_ptr=0x7ffff7fe9000, len_ptr=0x7ffff66f8000) = 0
+[child0:25909] [17868022691004938231] [Syscall Num: 307] sendmmsg(fd=56, mmsg=0x7ffff64f8000, vlen=1, flags=0x2) = -1 (Socket operation on non-socket)
+[child0:25909] [17868022691004938231] [Syscall Num: 111] getpgrp() = 0x6535
+[child0:25909] [17868022691004938231] [Syscall Num: 202] futex(uaddr=0x7ffff7fe9000, op=0x1, val=0xffffffa8, utime=0x7ffff7fea000, uaddr2=0x7ffff62f8000, val3=-10) = 0
+[child0:25909] [17868022691004938231] [Syscall Num: 142] sched_setparam(pid=0, param=0x8) = -1 (Bad address)
+[child0:25909] [17868022691004938231] [Syscall Num: 45] recvfrom(fd=56, ubuf=0x0, size=8, flags=0x0, addr=0x555555f849c0, addr_len=110) = -1 (Socket operation on non-socket)
+[child0:25909] [17868022691004938231] [Syscall Num: 40] sendfile(out_fd=56, in_fd=21, offset=0x0, count=0) = -1 (Invalid argument)
+[child0:25909] [17868022691004938231] [Syscall Num: 114] setregid(rgid=89, egid=0xfd39de17b566c3) = -1 (Operation not permitted)
+[child0:25909] [17868022691004938231] [Syscall Num: 165] mount(dev_name="(null)", dir_name="(null)", type=0x7ffff7fea000, flags=0x21004468, data=0x7ffff7fea000) = -1 (Bad address)
+[child0:25909] [17868022691004938231] [Syscall Num: 293] pipe2(fildes=0x7ffff7fe6000, flags=0x4000) = 0
+[child0:25909] [17868022691004938231] [Syscall Num: 42] connect(fd=56, uservaddr=0x555555f84a40, addrlen=110) = -1 (Socket operation on non-socket)
+[child0:25909] [17868022691004938231] [Syscall Num: 269] faccessat(dfd=56, filename="(null)", mode=40) = -1 (Invalid argument)
+[child0:25909] [17868022691004938231] [Syscall Num: 229] clock_getres(which_clock=0xff94, tp=0x7ffff68f8000) = -1 (Invalid argument)
+[child0:25909] [17868022691004938231] [Syscall Num: 7] poll(ufds=0x555555f848c0, nfds=1, timeout_msecs=0) = 0
+[child0:25909] [17868022691004938231] [Syscall Num: 11] munmap(addr=0x7ffff7fe8000, len=4096) = 0
+[child0:25909] [17868022691004938231] [Syscall Num: 83] mkdir(pathname="(null)", mode=0) = -1 (Bad address)
+[child0:25909] [17868022691004938231] [Syscall Num: 54] setsockopt(fd=10, level=-2, optname=0xd7840182c0b0ed16, optval=0x555555f84ac0, optlen=64) = -1 (Socket operation on non-socket)
+[child0:25909] [17868022691004938231] [Syscall Num: 327] preadv2(fd=10, vec=0x555555f84ac0, vlen=241, pos_l=0x32241009b0, pos_h=0x301e5b8f3c0044, flags=0x0) = -1 (Illegal seek)
+[child0:25909] [17868022691004938231] [Syscall Num: 157] prctl(option=22, arg2=21, arg3=214, arg4=0x8000000000, arg5=0x8000308000) = -1 (Invalid argument)
+[child0:25909] [17868022691004938231] [Syscall Num: 288] accept4(fd=10, upeer_sockaddr=0x555555f84ac0, upeer_addrlen=110, flags=0x800) = -1 (Socket operation on non-socket)
+[child0:25909] [17868022691004938231] [Syscall Num: 124] getsid(pid=0) = 0x6535
+[child0:25909] [17868022691004938231] [Syscall Num: 288] accept4(fd=10, upeer_sockaddr=0x555555f84b40, upeer_addrlen=2053, flags=0x0) = -1 (Socket operation on non-socket)
+[child0:25909] [17868022691004938231] [Syscall Num: 261] futimesat(dfd=54, filename="(null)", utimes=0x7ffff62f8000) = 0
