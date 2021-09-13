@@ -4,5 +4,4 @@
 	ignore = all
 [submodule "sut/mystikos"]
 	path = sut/mystikos
-	url = https://github.com/deislabs/mystikos.git
-	ignore = all
+	url = https://github.com/mrragava/mystikos.git
